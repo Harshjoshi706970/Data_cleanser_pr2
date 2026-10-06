@@ -1,7 +1,6 @@
 # 🧹 Data Cleanser – Patient Health Records
 
-## 📌 Video Explanation
-    https://drive.google.com/file/d/1wVsTbAOu6S_43GdVXh-nJdIstN0pFe0m/view?usp=sharing
+## 📌 Video Explanation--https://drive.google.com/file/d/1wVsTbAOu6S_43GdVXh-nJdIstN0pFe0m/view?usp=sharing
 
 ## 📌 Project Overview
 
